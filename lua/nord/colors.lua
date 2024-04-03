@@ -44,7 +44,7 @@ local light_colors = {
 	none = "NONE",
 }
 
-local nord = (vim.o.background == "dark") and dark_colors or light_colors
+local nord = (vim.o.background == "dark") and dark_colors
 
 -- Enable contrast sidebars, floating windows and popup menus
 if vim.g.nord_contrast then
