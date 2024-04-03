@@ -493,7 +493,7 @@ theme.loadPlugins = function()
 		TelescopeResultsBorder = { fg = nord.nord4_gui },
 		TelescopePreviewBorder = { fg = nord.nord4_gui },
 		TelescopeSelectionCaret = { fg = nord.nord9_gui },
-		TelescopeSelection = { fg = nord.nord6_gui, bg = nord.nord2_gui },
+		TelescopeSelection = { fg = nord.nord6_gui, bg = nord.none },
 		TelescopeMatching = { link = 'Search' },
 
 		-- NvimTree
