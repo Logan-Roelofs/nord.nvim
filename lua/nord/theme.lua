@@ -497,7 +497,7 @@ theme.loadPlugins = function()
 		TelescopeMatching = { link = 'Search' },
 
 		-- NeoTree
-		NeoTreeTitleBar = { fg = nord.nord0_gui, bold = true,},:w
+		NeoTreeTitleBar = { fg = nord.nord0_gui, bold = true,},
     		NeoTreeFloatTitle = { fg = nord.nord0_gui, bold = true,},
 		
 		-- NvimTree
